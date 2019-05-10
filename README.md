@@ -26,5 +26,19 @@ SuperMap iObject Version: V9.1.1
 ## Complete project download
 
  Download:
-  [Gis-SoDev-Expriment](http://frytea-data.test.upcdn.net/2019051020105572386317.zip)
-  [SampleData]()
+  [Gis-SoDev-Expriment-Complete](https://share.frytea.com/f.php?k=a0def)
+  [Gis-SoDev-Expriment-SampleData](https://share.frytea.com/f.php?k=58c19)
+
+  ## Screen capture
+
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205300.png)
+
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205325.png)
+
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205426.png)
+  
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205622.png)
+
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205647.png)
+
+  ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205702.png)
