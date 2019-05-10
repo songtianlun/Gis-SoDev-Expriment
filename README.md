@@ -60,7 +60,7 @@ SuperMap iObject Version: V9.1.1
 ## Contact me
 
 - E-mail: songtianlun@frytea.com
-- GitHUb: [songtianlun](https://github.com/songtianlun)
+- GitHub: [songtianlun](https://github.com/songtianlun)
 
 For more information, please go to my homepage.
 
