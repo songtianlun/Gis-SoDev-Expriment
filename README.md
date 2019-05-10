@@ -33,11 +33,11 @@ SuperMap iObject Version: V9.1.1
 
   ## Screen capture
 
-  ### open workplace
+  ### Open workplace
 
   ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205300.png)
 
-  ### open info
+  ### Open info
 
   ![](https://raw.githubusercontent.com/songtianlun/Image-Hosting/image/20190510205325.png)
 
