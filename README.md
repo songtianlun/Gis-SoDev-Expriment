@@ -1,10 +1,13 @@
-﻿# Gis - SoDev - Expriment
+# Gis - SoDev - Expriment
 
 > A Gis component development experiment developed using SuperMap iObject.
 
 ## Surroundings
+
 IDE: Visual Studio 2015
+
 OS: win 10 home / win 7 enterprise
+
 SuperMap iObject Version: V9.1.1 
 
 ## Object
